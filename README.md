@@ -1,2 +1,2 @@
 # Leo
-earn money
+Leo-dev-notes
